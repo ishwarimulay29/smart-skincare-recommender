@@ -69,12 +69,9 @@ Given a user's skin type:
 
 | File                         | Description |
 |------------------------------|-------------|
-| skincare_analysis_notebook.ipynb | Jupyter notebook with all preprocessing, modeling, and recommendation logic |
+| SmartSkincareRecommender.ipynb | Jupyter notebook with all preprocessing, modeling, and recommendation logic |
 | cosmetics.csv              | Dataset used (share a sample if proprietary) |
-| bmin_final_report.pdf      | Detailed write-up of the project methodology and results |
-| BMIN Project Proposal.docx | Initial research proposal |
 | requirements.txt           | Required Python packages |
-| .gitignore                 | Git-ignore config |
 | LICENSE                    | MIT License (default) |
 
 ## 🚀 How to Use
