@@ -1,0 +1,13 @@
+## 📄 requirements.txt
+
+```txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+catboost
+xgboost
+nltk
+wordcloud
+jupyter
